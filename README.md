@@ -7,7 +7,7 @@ Kick.comのチャットコメントをASS字幕形式でダウンロードする
 以下のコードをブックマークとして登録：
 
 ```javascript
-javascript:(()=>{const e=document.createElement("script");e.type="module";e.src="https://usa073.github.io/kickcd-36pt/kickcd.js";document.body.append(e);})();
+javascript:(()=>{const s=document.createElement('script');s.src='https://usa073.github.io/kickcd-36pt-emote/kickcdemoji.js?t='+(Date.now());document.body.appendChild(s);})()
 ```
 
 Kick.comの動画ページで、上記ブックマークをクリックすると、ASS形式でチャットコメントをダウンロードします。
